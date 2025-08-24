@@ -159,7 +159,7 @@
 
 <div align="center">
 
-### **Active Development Pipeline**
+### **🚀 Active Development Pipeline**
 
 </div>
 
@@ -297,9 +297,6 @@
 
 ### **💡 Daily Inspiration**
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### **🏆 GitHub Achievements**
-![Trophies](https://github-profile-trophy.vercel.app/?username=caothongdev&theme=tokyonight&no-frame=true&margin-w=10&column=7)
 
 ---
 
