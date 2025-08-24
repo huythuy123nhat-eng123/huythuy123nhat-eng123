@@ -155,12 +155,9 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 Current Projects & Ventures
-
-### **🚀 Active Development Pipeline**
-
+<div align="center">
+### ** Active Development Pipeline**
 </div>
 
 <div align="center">
