@@ -6,7 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=caothongdev&color=blue&style=flat-square)](https://github.com/caothongdev)
 [![GitHub followers](https://img.shields.io/github/followers/caothongdev?label=Followers&style=social)](https://github.com/caothongdev)
-[![Years Badge](https://badges.pufler.dev/years/caothongdev?style=flat-square&color=blue&logo=github)](https://github.com/caothongdev)
 
 </div>
 
