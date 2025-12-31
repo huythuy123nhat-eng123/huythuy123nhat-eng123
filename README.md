@@ -2,7 +2,7 @@
 
 # 👋 Hoàng Cao Thống
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+SaaS+Architect;Crafting+intelligent+automation+%26+scalable+solutions;Bridging+Vietnam+to+global+tech+markets+🇻🇳+→+🌍;Building+products+that+matter%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hoàng+Cao+Thống+%7C+Software+Engineer;Building+scalable+solutions+with+modern+tech;Passionate+about+innovation+%26+entrepreneurship;From+Vietnam+🇻🇳+to+the+world+🌍" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=caothongdev&color=blue&style=for-the-badge)](https://github.com/caothongdev)
 [![GitHub followers](https://img.shields.io/github/followers/caothongdev?label=Followers&style=for-the-badge&logo=github)](https://github.com/caothongdev?tab=followers)
@@ -19,7 +19,7 @@
 ```typescript
 const caothongdev = {
     location: "Hậu Giang & Cần Thơ, Vietnam 🇻🇳",
-    role: "Full-Stack Developer & SaaS Architect",
+    role: "Software Engineer & SaaS Architect",
     languages: {
         native: "Vietnamese",
         advancing: "English (Target: IELTS 7.0+)"
@@ -39,7 +39,7 @@ const caothongdev = {
         exploring: ["Vietnamese market opportunities", "International expansion"]
     },
     
-    mindset: "Write clean code. Build products that matter. Create impact that lasts."
+    mindset: "Learn fast, build fast, fail fast"
 };
 ```
 
@@ -48,7 +48,7 @@ const caothongdev = {
 
 <br>
 
-I'm a Vietnamese full-stack developer specializing in **Python** and **modern JavaScript frameworks**, with a focus on building **SaaS platforms** and **business automation systems**. My work centers on creating scalable, user-centric products that solve real problems—from intelligent Discord bots to localized link-in-bio platforms for the Vietnamese market.
+I'm a Vietnamese Software Engineer specializing in **Python** and **modern JavaScript frameworks**, with a focus on building **SaaS platforms** and **business automation systems**. My work centers on creating scalable, user-centric products that solve real problems—from intelligent Discord bots to localized link-in-bio platforms for the Vietnamese market.
 
 I believe in **growth-oriented engineering**: writing clean, performant code while maintaining a pragmatic approach to product development. My goal is to bridge Vietnamese innovation with global technology markets, creating products that enhance productivity and drive economic growth.
 
@@ -307,42 +307,6 @@ Automated order notifications, payment approval workflows, and CRM integration w
 
 ---
 
-## 🎓 Professional Development
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Current Learning Path
-
-```python
-learning_roadmap = {
-    "2025_Q1": [
-        "System Architecture & Design Patterns",
-        "Advanced Python: Async, Performance",
-        "Cloud Infrastructure: AWS/GCP",
-        "AI/ML Integration Techniques"
-    ],
-    
-    "2025_Q2": [
-        "Microservices Architecture",
-        "Kubernetes & Container Orchestration",
-        "Advanced Database Optimization",
-        "Security Best Practices"
-    ],
-    
-    "continuous": [
-        "English: IELTS 7.0+ preparation",
-        "Product Management fundamentals",
-        "Business & Market analysis",
-        "Leadership & Team management"
-    ]
-}
-```
-
-</td>
-<td width="50%">
-
 ### 🎯 2025 Goals
 
 ```yaml
@@ -392,11 +356,11 @@ Personal Development:
 </td>
 <td width="33%" align="center">
 
-### 🌍 Local Impact, Global Reach
+### 🌍 Global Reach
 
-*"Build for Vietnam, scale to the world. Local problems deserve world-class solutions."*
+*"Build for global users, design for scale. Every problem deserves a world-class solution."*
 
-**Focus:** Vietnamese market needs, international standards, cultural bridges
+**Focus:** Clean architecture, system scalability, modern best practices
 
 </td>
 <td width="34%" align="center">
@@ -592,6 +556,6 @@ while (alive) {
 
 **Star a repository** ⭐ | **Follow for updates** 👥 | **Let's build together** 🤝
 
-<sub>Last updated: December 2025 | Made with ❤️ and lots of ☕</sub>
+<sub>Made with ❤️ and lots of ☕</sub>
 
 </div>
