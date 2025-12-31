@@ -18,7 +18,7 @@
 
 ```typescript
 const caothongdev = {
-    location: "Hậu Giang & Cần Thơ, Vietnam 🇻🇳",
+    location: "Cần Thơ, Vietnam",
     role: "Software Engineer & SaaS Architect",
     languages: {
         native: "Vietnamese",
